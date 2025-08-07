@@ -1,0 +1,22 @@
+1. História e Origem
+
+  •	Quem criou a linguagem e em que ano?
+  Criado em 1994 por Rasmus Lerdof.
+  
+  •	Qual problema ou contexto motivou sua criação?
+  Originalmente usado para acompanhamento de visitas para seu currículo online, ele nomeou
+  o conjunto de scripts de "Personal Home Page Tools" mais frequentemente referenciado como
+  "PHP Tools." Ao longo do tempo, mais funcionalidades foram desejadas, e Rasmus reescreveu
+  o PHP Tools, produzindo uma implementação maior e mais rica.
+  
+  •	Ela foi feita pensando em Web, servidores, sistemas embarcados, etc?
+  Seu principal uso até hoje é para desenvolvimento de sites e aplicações web dinâmicas.
+
+2. Paradigma(s) de Programação
+
+  •	Imperativa, orientada a objetos, funcional, concorrente, entre outros.
+  O PHP suporta sim o paradigma Imperativa, Orientada a Objetos, Modular/Componentizado, porém
+  parcialmente o paradigma Funcional e Orientação a Aspectos, e é limitado o paradigma Concorrente
+  
+  •	Suporte a programação assíncrona (importante em backend).
+  O PHP não foi projetado originalmente para ser assíncrono ou concorrente, como Node.js, Go, ou Rust.
